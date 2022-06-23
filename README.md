@@ -9,7 +9,7 @@ Me llamo Gerónimo, soy desarrollador Java y estudiante de Ingeniería en Sistem
 
 ## Mi stack 	:computer:
 
-[<img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" height="40" alt="java">]()
+[<img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" height="40" alt="java">]
 &emsp;
 [<img src="https://cdn-icons.flaticon.com/png/512/4492/premium/4492311.png?token=exp=1655996176~hmac=941e7e5593230840efc709bd9040a92f" height="40" alt="SQL">]() 
 &emsp;
