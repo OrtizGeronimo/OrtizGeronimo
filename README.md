@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hola! 👋
+Me llamo Gerónimo, soy desarrollador Java y estudiante de Ingeniería en Sistemas de Información.
+<br><br>
+ - :earth_americas: Mendoza, Argentina 
+ - :office:	Actualmente trabajando como Junior Java Developer en Imaquio S.A
+ - :books: Cursando 4° año en Universidad Tecnológica Nacional - Facultad Regional Mendoza
+ - :arrow_upper_right: Avanzando en mi aprendizaje de Frontend con React
 
-<!--
-**OrtizGeronimo/OrtizGeronimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Mi stack 	:computer:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" height="40" alt="java">]()
+&emsp;
+[<img src="https://cdn-icons.flaticon.com/png/512/4492/premium/4492311.png?token=exp=1655996176~hmac=941e7e5593230840efc709bd9040a92f" height="40" alt="SQL">]() 
+&emsp;
+[<img src="https://cdn-icons.flaticon.com/png/512/4908/premium/4908200.png?token=exp=1655996291~hmac=347d8605089ba5594fdce649cf32702c" height="40" alt="GIT">]()
+
+## Contactame!
+[<img src='https://cdn-icons-png.flaticon.com/512/2111/2111499.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/ortizgeronimo26/)
+&emsp;[<img src='https://cdn-icons-png.flaticon.com/512/732/732200.png' alt="gmail" height="40">](mailto:geroortizz123@gmail.com)
+
