@@ -9,11 +9,13 @@ Me llamo Gerónimo, soy desarrollador Java y estudiante de Ingeniería en Sistem
 
 ## Mi stack 	:computer:
 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" height="40" alt="java">
+[<img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" height="40" alt="java">]()
 &emsp;
 [<img src="https://cdn-icons.flaticon.com/png/512/4492/premium/4492311.png?token=exp=1655996176~hmac=941e7e5593230840efc709bd9040a92f" height="40" alt="SQL">]() 
 &emsp;
 [<img src="https://cdn-icons.flaticon.com/png/512/4908/premium/4908200.png?token=exp=1655996291~hmac=347d8605089ba5594fdce649cf32702c" height="40" alt="GIT">]()
+&emsp;
+[<img src="https://cdn-icons-png.flaticon.com/512/888/888859.png" height="40" alt="HTML">]()
 
 ## Contactame!
 [<img src='https://cdn-icons-png.flaticon.com/512/2111/2111499.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/ortizgeronimo26/)
