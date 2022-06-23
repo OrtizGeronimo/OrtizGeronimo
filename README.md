@@ -4,7 +4,7 @@ Me llamo Gerónimo, soy desarrollador Java y estudiante de Ingeniería en Sistem
  - :earth_americas: Mendoza, Argentina 
  - :office:	Actualmente trabajando como Junior Java Developer en Imaquio S.A
  - :books: Cursando 4° año en Universidad Tecnológica Nacional - Facultad Regional Mendoza
- - :arrow_upper_right: Avanzando en mi aprendizaje de Frontend con React
+ - :arrow_upper_right: Avanzando en mi aprendizaje Frontend con React
 
 
 ## Mi stack 	:computer:
@@ -16,6 +16,13 @@ Me llamo Gerónimo, soy desarrollador Java y estudiante de Ingeniería en Sistem
 [<img src="https://cdn-icons.flaticon.com/png/512/4908/premium/4908200.png?token=exp=1655996291~hmac=347d8605089ba5594fdce649cf32702c" height="40" alt="GIT">]()
 &emsp;
 [<img src="https://cdn-icons-png.flaticon.com/512/888/888859.png" height="40" alt="HTML">]()
+&emsp;
+[<img src="https://cdn-icons-png.flaticon.com/512/888/888847.png" height="40" alt="CSS">]()
+&emsp;
+[<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="40" alt="CSS">]()
+&emsp;
+[<img src="https://user-images.githubusercontent.com/71572930/175328732-9dde16f3-a6fb-4140-8b83-f5a7c5c85251.svg" height="40" alt="CSS">]()
+
 
 ## Contactame!
 [<img src='https://cdn-icons-png.flaticon.com/512/2111/2111499.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/ortizgeronimo26/)
