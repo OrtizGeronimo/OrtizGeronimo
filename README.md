@@ -3,7 +3,7 @@ Me llamo Gerónimo, soy desarrollador Java y estudiante de Ingeniería en Sistem
 <br><br>
  - :earth_americas: Mendoza, Argentina 
  - :office:	Actualmente trabajando como Junior Java Developer en Confluencia FTO SRL
- - :books: Cursando 4° año en Universidad Tecnológica Nacional - Facultad Regional Mendoza
+ - :books: Cursando 5° año en Universidad Tecnológica Nacional - Facultad Regional Mendoza
  - :arrow_upper_right: Avanzando en mi aprendizaje Frontend con React
 
 
