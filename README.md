@@ -7,7 +7,7 @@ Me llamo Gerónimo, soy desarrollador Java e Ingeniero en Sistemas de Informaci�
  - :arrow_upper_right: Avanzando en mi aprendizaje Frontend con React
 
 
-## Mi stack 	:computer:
+## Mi stack 	💻
 
 [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" height="40" alt="java" title="Java">](https://www.java.com/es/)
 &emsp;
