@@ -15,7 +15,7 @@ Me llamo Ger√≥nimo, soy desarrollador Java e Ingeniero en Sistemas de Informaci√
 &emsp;
 [<img src="[https://cdn-icons.flaticon.com/png/512/4492/premium/4492311.png?token=exp=1655996176~hmac=941e7e5593230840efc709bd9040a92f](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png)" height="40" alt="SQL" title="SQL">]() 
 &emsp;
-[<img src="[https://cdn-icons.flaticon.com/png/512/4908/premium/4908200.png?token=exp=1655996291~hmac=347d8605089ba5594fdce649cf32702c](https://avatars.githubusercontent.com/u/18133?s=280&v=4)" height="40" alt="GIT" title="GIT">](https://git-scm.com/)
+[<img src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" height="40" alt="GIT" title="GIT">](https://git-scm.com/)
 &emsp;
 [<img src="https://cdn-icons-png.flaticon.com/512/888/888859.png" height="40" alt="HTML" title="HTML">]()
 &emsp;
