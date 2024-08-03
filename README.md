@@ -13,7 +13,7 @@ Me llamo Ger√≥nimo, soy desarrollador Java e Ingeniero en Sistemas de Informaci√
 &emsp;
 [<img src="https://user-images.githubusercontent.com/71572930/175328732-9dde16f3-a6fb-4140-8b83-f5a7c5c85251.svg" height="40" alt="Spring" title="Spring/Spring Boot">](https://spring.io/projects/spring-boot)
 &emsp;
-[<img src="[https://cdn-icons.flaticon.com/png/512/4492/premium/4492311.png?token=exp=1655996176~hmac=941e7e5593230840efc709bd9040a92f](https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png)" height="40" alt="SQL" title="SQL">]() 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png" height="40" alt="SQL" title="SQL">]() 
 &emsp;
 [<img src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" height="40" alt="GIT" title="GIT">](https://git-scm.com/)
 &emsp;
