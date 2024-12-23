@@ -2,7 +2,7 @@
 Me llamo Gerónimo, soy desarrollador Java e Ingeniero en Sistemas de Información
 <br><br>
  - :earth_americas: Mendoza, Argentina 
- - :office:	Actualmente trabajando como Java Developer en dotCMS - +2 años de experiencia como desarrollador Java
+ - :office:	Actualmente trabajando como Java Developer en dotCMS - +3 años de experiencia como desarrollador Java
  - :books: Ingeniero en Sistemas de Información. Graduado de Universidad Tecnológica Nacional - Facultad Regional Mendoza 
  - :arrow_upper_right: Avanzando en mi aprendizaje Frontend con React
 
