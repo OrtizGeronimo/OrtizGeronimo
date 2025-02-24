@@ -26,6 +26,6 @@ Me llamo Ger√≥nimo, soy desarrollador Java e Ingeniero en Sistemas de Informaci√
 
 
 ## Contactame!
-[<img src='https://cdn-icons-png.flaticon.com/512/2111/2111499.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/ortizgeronimo26/)
+[<img src='https://cdn-icons-png.flaticon.com/512/2111/2111499.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/ortizgeronimo/)
 &emsp;[<img src='https://cdn-icons-png.flaticon.com/512/732/732200.png' alt="gmail" height="40">](mailto:geroortizz123@gmail.com)
 
